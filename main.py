@@ -6,7 +6,7 @@ def main():
     print('My first git program')
     print('And I change it every day')
     print('Agaiштттт')
-    print('UFO came and added this line')
+    print('UFO cameadded this line')
     my_superfunction()
     print(1)
 
